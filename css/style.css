@@ -1,0 +1,91 @@
+.block{
+    margin-top: 20px;
+}
+
+.plus__button{
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    border: none;
+}
+
+.block__swap{
+    margin-top: 34px;
+    
+}
+
+.following{
+    text-decoration: none;
+    color: #757575;
+}
+
+.recommended{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #292929;
+}
+
+.button__span{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.80);
+    font-weight: 100;
+}
+
+.profile__image{
+    max-width: 32px;
+    max-height: 32px;
+    border-radius: 25%;
+}
+
+.aside__button{
+    height: 41px;
+    width: 301px;
+    background-color: #191919;
+    border-radius: 20px;
+    color: white;
+}
+
+.aide__search{
+    height: 41px;
+    width: 301px;
+    border-radius: 20px;
+    border: 1px solid #e6e6e680;
+    margin-top: 57px;
+}
+
+.aside__news{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.amit__das{
+    color: #292929;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.aside__not{
+    margin-top: 24px;
+}
+
+.aside__link{
+    margin-top: 20px;
+}
+
+.time{
+    position: relative;
+    left: 95px;
+    bottom: 17.5px;
+    color: #757575;
+    font-weight: 100;
+    font-size: 14px;
+    
+}
+
+.post-text{
+    
+}
+
+.picture__post{
+}
