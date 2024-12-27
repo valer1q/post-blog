@@ -80,12 +80,20 @@
     color: #757575;
     font-weight: 100;
     font-size: 14px;
-    
 }
 
 .post-text{
-    
+    width: 533px;
+    height: 72px;
+}
+
+.vseok{
+    display: flex;
 }
 
 .picture__post{
+    margin-left: 60px;
+    margin-right: 100px;
+    position: relative;
+    top: -60px;
 }
